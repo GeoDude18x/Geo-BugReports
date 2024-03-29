@@ -18,7 +18,7 @@ Steps to reproduce the behavior:
 4. Observe the issue at the beginning of the round where the screen goes partially dark and barely moves.
 
 **Expected behavior**
-Expected a cutscene or normal gameplay visuals to display at the beginning of the round. Instead, the screen partially darkens, indicating a possible missing cutscene or glitch.
+Expected a cutscene or normal gameplay visuals to display at the beginning of the round. Instead, the screen partially darkens and freezes, indicating a possible missing cutscene or glitch.
 
 **Screenshots**
 Due to issues with uploading the screenshot to GitHub, it's not included here (Screenshot shows URL here). However, the screenshot shows the screen being unexpectedly dark on one side while the game's HUD is visible.
