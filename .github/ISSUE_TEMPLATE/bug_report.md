@@ -1,11 +1,9 @@
----
+
 name: Bug Report for Rainbow Six Siege - Containment Event
 about: Containment Event Bug
 title: 'Glitch at the Start of Round in Containment Event'
 labels: 'bug', 'event', 'graphics', 'cutscene-missing', 'r6',
 assignees: ''
-
----
 
 **Describe the bug**
 When starting the new Containment event in Rainbow Six Siege, a glitch occurs during the first few seconds of the round where the screen goes partially dark and doesn't move. This seems like a place where a cutscene might have been intended to play but doesn't start.
